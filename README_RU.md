@@ -1,3 +1,4 @@
+<img width="2560" height="1440" alt="1" src="https://github.com/user-attachments/assets/bb7b6617-d6f1-498a-9ac6-67e6c9d18ba6" />
 # FullBlur Filter (OBS plugin)
 
 OBS-фильтр для стримеров: задерживает видео и звук источника, прогоняет кадры
