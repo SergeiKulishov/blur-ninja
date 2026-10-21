@@ -1,5 +1,5 @@
-<img width="2560" height="1440" alt="1" src="https://github.com/user-attachments/assets/bb7b6617-d6f1-498a-9ac6-67e6c9d18ba6" />
-# FullBlur Filter (OBS plugin)
+<img width="1440" height="1000" alt="hero-card-apple" src="https://github.com/user-attachments/assets/65a8a133-7b55-4ced-91fe-88f00e2a01e0" />
+# BlurNinja Filter (OBS plugin)
 
 OBS-фильтр для стримеров: задерживает видео и звук источника, прогоняет кадры
 через NSFW-детектор (NudeNet / ONNX Runtime + DirectML) и при обнаружении
