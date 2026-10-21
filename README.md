@@ -1,5 +1,6 @@
-<img width="2560" height="1440" alt="2" src="https://github.com/user-attachments/assets/1b969d70-f9cc-4707-9b57-1f216e9ac0ac" />
-# FullBlur (temp name) Filter (OBS plugin)
+<img width="1440" height="1000" alt="hero-card-apple" src="https://github.com/user-attachments/assets/f9d07a23-e40c-47f6-9467-ab9d4f97bce7" />
+
+# BlurNinja Filter (OBS plugin)
 
 An OBS source filter for streamers: delays video and audio, runs frames through
 an NSFW detector (NudeNet via ONNX Runtime + DirectML), and pixelates/blurs the
