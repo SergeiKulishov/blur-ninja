@@ -1,4 +1,4 @@
-<img width="1440" height="1000" alt="hero-card-apple" src="https://github.com/user-attachments/assets/f9d07a23-e40c-47f6-9467-ab9d4f97bce7" />
+<img width="2880" height="2000" alt="blur-ninja-card-en" src="https://github.com/user-attachments/assets/f93aee34-a28c-4f50-8e45-24b4054c840d" />
 
 # BlurNinja Filter (OBS plugin)
 
