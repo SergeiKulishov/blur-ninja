@@ -1,4 +1,4 @@
-<img width="1440" height="1000" alt="hero-card-apple" src="https://github.com/user-attachments/assets/65a8a133-7b55-4ced-91fe-88f00e2a01e0" />
+<img width="2880" height="2000" alt="blur-ninja-card-ru" src="https://github.com/user-attachments/assets/12786da5-579b-4890-83d6-2b8892a3311c" />
 # BlurNinja Filter (OBS plugin)
 
 OBS-фильтр для стримеров: задерживает видео и звук источника, прогоняет кадры
